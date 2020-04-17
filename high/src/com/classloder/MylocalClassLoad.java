@@ -4,6 +4,7 @@ import java.io.ByteArrayOutputStream;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.lang.reflect.Method;
 
 /**
  * @program: keep_studying
@@ -53,9 +54,13 @@ public class MylocalClassLoad extends ClassLoader {
     }
 
     public static void main(String[] args) throws Exception {
-        MylocalClassLoad mylocalClassLoad = new MylocalClassLoad("D:\\Users\\14454\\Desktop\\com\\classloader\\Cla.class");
-        Class cla = mylocalClassLoad.loadClass("com.classloader.Cla");
+        MylocalClassLoad mylocalClassLoad = new MylocalClassLoad("C:\\Users\\wugengen\\Desktop\\com\\classloder\\Cla.class");
+        Class cla = mylocalClassLoad.loadClass("com.classloder.Cla");
         Object obj = cla.newInstance();
         System.out.println("obj--------" + obj);
+        Method method=cla.getDeclaredMethod("main",String[].class);
+        String[] strings={"555"};
+        //method.invoke(obj,strings);
+        method.invoke(obj,(Object)strings);
     }
 }
