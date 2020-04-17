@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic/basic.iml" filepath="$PROJECT_DIR$/basic/basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fun/fun.iml" filepath="$PROJECT_DIR$/fun/fun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/high/high.iml" filepath="$PROJECT_DIR$/high/high.iml" />
       <module fileurl="file://$PROJECT_DIR$/keep_studying.iml" filepath="$PROJECT_DIR$/keep_studying.iml" />
     </modules>
   </component>

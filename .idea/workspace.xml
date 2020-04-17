@@ -1,27 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a845a2fe-e5c6-4ff1-a37a-79a68dd8799a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/keep_studying_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/Thread.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/com/Thread200406.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/com/Thread200406_0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/com/Thread200406_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keep_studying.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/Thread200406$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/Thread200406.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/Thread200406_0$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/Thread200406_0$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/Thread200406_0.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/Thread200406_1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/Thread200406_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/basic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/com/AbstractClass0000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/high/high.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/high/src/com/classloder/Cla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/high/src/com/classloder/Demo00.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/high/src/com/classloder/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/high/src/com/classloder/MyNetUrlCLassLoad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/high/src/com/classloder/MylocalClassLoad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/high/src/com/proxy/Office.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/high/src/com/proxy/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/high/src/com/proxy1/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/high/src/com/proxy1/HelloC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/high/src/com/proxy1/HelloProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/high/src/com/reflection/ClassDemo0000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/high/src/com/reflection/ClassDemo0002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/high/src/com/reflection/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/fun/com/Sqrt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/high/META-INF/high.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/high/com/classloder/Cla.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/high/com/classloder/Demo00.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/high/com/classloder/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/high/com/classloder/MyNetUrlCLassLoad.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/high/com/classloder/MylocalClassLoad.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/high/com/proxy/Office$OfficeP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/high/com/proxy/Office.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/high/com/proxy/Word.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/high/com/proxy1/Hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/high/com/proxy1/HelloC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/high/com/proxy1/HelloProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/high/com/reflection/ClassDemo0000.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/high/com/reflection/ClassDemo0002.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/high/com/reflection/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,31 +51,109 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="keep_studying" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Thread/src/com/Thread200406.java">
+        <entry file="file://$PROJECT_DIR$/high/src/com/proxy/Office.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="15" column="29" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="29" />
+            <state relative-caret-position="364">
+              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Thread/src/com/Thread200406_0.java">
+        <entry file="file://$PROJECT_DIR$/high/src/com/classloder/MyNetUrlCLassLoad.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="16" column="29" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="29" />
+            <state relative-caret-position="-112">
+              <caret line="29" column="22" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Class.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5460">
+              <caret line="262" selection-start-line="262" selection-end-line="262" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/net/URL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11424">
+              <caret line="439" selection-start-line="439" selection-end-line="439" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Thread/src/com/Thread200406_1.java">
+        <entry file="file://$PROJECT_DIR$/high/src/com/classloder/MylocalClassLoad.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+            <state relative-caret-position="28">
+              <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/high/src/com/classloder/Cla.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" selection-start-column="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/ClassLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19432">
+              <caret line="757" column="74" selection-start-line="757" selection-start-column="58" selection-end-line="757" selection-end-column="74" />
+              <folding>
+                <element signature="e#12720#12721#0" expanded="true" />
+                <element signature="e#12790#12791#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/high/src/com/classloder/Demo01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/out/production/high/com/classloder/Demo00.class">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/high/src/com/classloder/Demo00.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="812">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,9 +163,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>find</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -81,21 +183,46 @@
         <option value="$PROJECT_DIR$/Thread/src/com/Thread200406.java" />
         <option value="$PROJECT_DIR$/Thread/src/com/Thread200406_0.java" />
         <option value="$PROJECT_DIR$/Thread/src/com/Thread200406_1.java" />
+        <option value="$PROJECT_DIR$/fun/src/com/Sqrt.java" />
+        <option value="$PROJECT_DIR$/basic/src/com/AbstaractClass0000.java" />
+        <option value="$PROJECT_DIR$/basic/src/com/AbstractClass0000.java" />
+        <option value="$PROJECT_DIR$/high/src/com/reflection/Person.java" />
+        <option value="$PROJECT_DIR$/high/src/com/reflection/Office.java" />
+        <option value="$PROJECT_DIR$/high/src/com/Office.java" />
+        <option value="$PROJECT_DIR$/high/src/com/reflection/ClassDemo0000.java" />
+        <option value="$PROJECT_DIR$/high/src/com/reflection/ClassDemo0002.java" />
+        <option value="$PROJECT_DIR$/high/src/com/proxy/Word.java" />
+        <option value="$PROJECT_DIR$/high/src/com/proxy/Office.java" />
+        <option value="$PROJECT_DIR$/high/src/com/proxy1/Hello.java" />
+        <option value="$PROJECT_DIR$/high/src/com/proxy1/HelloC.java" />
+        <option value="$PROJECT_DIR$/high/src/com/proxy1/HelloProxy.java" />
+        <option value="$PROJECT_DIR$/high/src/com/classloder/MyCLassLoad.java" />
+        <option value="$PROJECT_DIR$/high/src/com/proxy/Execl.java" />
+        <option value="$PROJECT_DIR$/high/src/com/classloder/MyCLassLoad0.java" />
+        <option value="$PROJECT_DIR$/high/src/com/classloder/MyClassLoad01.java" />
+        <option value="$PROJECT_DIR$/high/src/com/classloder/MyNetUrlCLassLoad.java" />
+        <option value="$PROJECT_DIR$/high/src/com/classloder/Demo00.java" />
+        <option value="$PROJECT_DIR$/high/src/com/classloder/Demo01.java" />
+        <option value="$PROJECT_DIR$/high/src/com/classloder/Cla.java" />
+        <option value="$PROJECT_DIR$/high/src/com/classloder/MylocalClassLoad.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="514" />
-    <option name="y" value="60" />
+    <option name="x" value="594" />
+    <option name="y" value="111" />
     <option name="width" value="1185" />
     <option name="height" value="804" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,7 +234,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -116,7 +242,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/high/src/com/proxy" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -126,6 +252,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\14454\IdeaProjects\keep_studying\high\src\com\proxy" />
+      <recent name="D:\Users\14454\IdeaProjects\keep_studying\out\production\high\com\proxy" />
+      <recent name="D:\Users\14454\IdeaProjects\keep_studying\high\src\com\reflection" />
       <recent name="D:\Users\14454\IdeaProjects\keep_studying\Thread\src\com" />
     </key>
   </component>
@@ -141,7 +270,72 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Thread200406_1">
+  <component name="RunManager" selected="Application.MylocalClassLoad">
+    <configuration name="Cla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.classloder.Cla" />
+      <module name="high" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.classloder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo00" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.classloder.Demo00" />
+      <module name="high" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.classloder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.classloder.Demo01" />
+      <module name="high" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.classloder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyNetUrlCLassLoad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.classloder.MyNetUrlCLassLoad" />
+      <module name="high" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.classloder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MylocalClassLoad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.classloder.MylocalClassLoad" />
+      <module name="high" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.classloder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Thread200406" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -149,33 +343,7 @@
       <module name="Thread" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Thread200406_0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Thread200406_0" />
-      <module name="Thread" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Thread200406_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Thread200406_1" />
-      <module name="Thread" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.*" />
+          <option name="PATTERN" value="com.proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,13 +353,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Thread200406" />
-      <item itemvalue="Application.Thread200406_0" />
-      <item itemvalue="Application.Thread200406_1" />
+      <item itemvalue="Application.MyNetUrlCLassLoad" />
+      <item itemvalue="Application.Demo01" />
+      <item itemvalue="Application.Cla" />
+      <item itemvalue="Application.MylocalClassLoad" />
+      <item itemvalue="Application.Demo00" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Thread200406_1" />
-        <item itemvalue="Application.Thread200406_0" />
+        <item itemvalue="Application.MylocalClassLoad" />
+        <item itemvalue="Application.MyNetUrlCLassLoad" />
+        <item itemvalue="Application.Cla" />
+        <item itemvalue="Application.Demo00" />
+        <item itemvalue="Application.Demo01" />
       </list>
     </recent_temporary>
   </component>
@@ -206,39 +380,53 @@
       <option name="presentableId" value="Default" />
       <updated>1586140998480</updated>
       <workItem from="1586141003534" duration="6393000" />
-      <workItem from="1586599152275" duration="3287000" />
+      <workItem from="1586599152275" duration="6920000" />
+      <workItem from="1586745899361" duration="677000" />
+      <workItem from="1586791747737" duration="552000" />
+      <workItem from="1586858884433" duration="9237000" />
+      <workItem from="1586914363766" duration="21180000" />
+      <workItem from="1587087371648" duration="1392000" />
     </task>
+    <task id="LOCAL-00001" summary="20200411，first commit to local repostory">
+      <created>1586614029497</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586614029497</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9680000" />
+    <option name="totallyTimeSpent" value="46351000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="33" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33144704" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973262" visible="true" weight="0.19725141" />
+      <window_info id="Structure" order="1" sideWeight="0.5026738" side_tool="true" weight="0.19401778" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.5026738" side_tool="true" weight="0.19401778" />
+      <window_info id="Web" order="7" sideWeight="0.5026738" side_tool="true" weight="0.19401778" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21042831" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39851025" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.42271882" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29795158" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.49720672" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32960895" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.16387337" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.40595904" />
       <window_info anchor="bottom" id="Tail" order="14" />
+      <window_info anchor="bottom" id="Inspection Results" order="15" weight="0.48044693" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -253,6 +441,20 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="20200411，first commit to local repostory" />
+    <option name="LAST_COMMIT_MESSAGE" value="20200411，first commit to local repostory" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -262,10 +464,47 @@
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/high/src/com/classloder/MyNetUrlCLassLoad.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/high/src/com/classloder/MyNetUrlCLassLoad.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/high/src/com/classloder/MylocalClassLoad.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/high/src/com/classloder/MylocalClassLoad.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/high/src/com/classloder/MylocalClassLoad.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/high/src/com/classloder/MyNetUrlCLassLoad.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/basic/src/com.java" />
     <entry file="file://$PROJECT_DIR$/Thread/src/com/Thread200406.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -275,15 +514,328 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Thread/src/com/Thread200406_0.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="29" />
+        <state relative-caret-position="616">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Thread/src/com/Thread200406_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+        <state relative-caret-position="840">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fun/src/com/Sqrt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/src/com/AbstractClass0000.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/high/src/com/reflection/ClassDemo0000.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="1335" selection-start-line="1335" selection-end-line="1335" />
+          <folding>
+            <element signature="e#52271#52272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="1610" selection-start-line="1610" selection-end-line="1610" />
+          <folding>
+            <element signature="e#62916#62917#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/misc/URLClassPath.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="283" selection-start-line="283" selection-end-line="283" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/misc/Launcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="193" selection-start-line="193" selection-end-line="193" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/high/src/com/reflection/ClassDemo0002.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#316#324#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11844">
+          <caret line="483" column="18" selection-start-line="483" selection-start-column="18" selection-end-line="483" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/high/src/com/proxy/Word.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/high/src/com/reflection/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/high/src/com/proxy1/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/high/src/com/proxy1/HelloC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/reflect/InvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="91" column="7" selection-start-line="42" selection-start-column="4" selection-end-line="91" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2744">
+          <caret line="233" column="27" selection-start-line="233" selection-start-column="10" selection-end-line="233" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/high/src/com/proxy1/HelloProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="99" column="15" selection-start-line="99" selection-start-column="15" selection-end-line="99" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="333" selection-start-line="333" selection-end-line="333" />
+          <folding>
+            <element signature="e#11597#11598#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="157" selection-start-line="157" selection-end-line="157" />
+          <folding>
+            <element signature="e#5447#5448#0" expanded="true" />
+            <element signature="e#5487#5488#0" expanded="true" />
+            <element signature="e#5671#5672#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/security/CodeSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/security/ProtectionDomain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="117" column="36" selection-start-line="117" selection-start-column="36" selection-end-line="117" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/high/com/proxy/Execl.java" />
+    <entry file="file://$PROJECT_DIR$/high/src/com/proxy/Execl.java" />
+    <entry file="file://$PROJECT_DIR$/out/production/high/com/classloder/Demo01.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#555#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/high/com/classloder/Cla.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/security/SecureClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/net/URLClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="72" column="46" lean-forward="true" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/high/src/com/proxy/Office.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5460">
+          <caret line="262" selection-start-line="262" selection-end-line="262" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/net/URL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11424">
+          <caret line="439" selection-start-line="439" selection-end-line="439" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/high/src/com/classloder/Cla.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19432">
+          <caret line="757" column="74" selection-start-line="757" selection-start-column="58" selection-end-line="757" selection-end-column="74" />
+          <folding>
+            <element signature="e#12720#12721#0" expanded="true" />
+            <element signature="e#12790#12791#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/high/src/com/classloder/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/high/com/classloder/Demo00.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/high/src/com/classloder/Demo00.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/high/src/com/classloder/MyNetUrlCLassLoad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-112">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/high/src/com/classloder/MylocalClassLoad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
