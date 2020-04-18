@@ -27,10 +27,12 @@ public class HelloProxy implements InvocationHandler {
     }
 
     public static void main(String[] args) {
+        System.out.println("仅仅测试代码发生变化，无意义");
         Hello hello = new HelloC();
         InvocationHandler handler = new HelloProxy(hello);
         Hello helloC = (Hello) Proxy.newProxyInstance(handler.getClass().getClassLoader(),
                 hello.getClass().getInterfaces(), handler);
         helloC.say();
+
     }
 }
