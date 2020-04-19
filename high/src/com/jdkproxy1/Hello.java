@@ -1,4 +1,4 @@
-package com.proxy1;
+package com.jdkproxy1;
 
 /**
  * @program: keep_studying

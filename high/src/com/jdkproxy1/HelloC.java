@@ -1,7 +1,4 @@
-package com.proxy1;
-
-import java.lang.reflect.InvocationHandler;
-import java.lang.reflect.Proxy;
+package com.jdkproxy1;
 
 /**
  * @program: keep_studying
@@ -13,7 +10,7 @@ public class HelloC implements Hello {
 
     @Override
     public void say() {
-        System.out.println("Hello world");
+        System.out.println("class HelloC===Hello world");
     }
 
 
