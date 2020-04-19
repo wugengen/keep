@@ -1,5 +1,6 @@
 package com.classloder;
 
+
 import java.io.ByteArrayOutputStream;
 import java.io.InputStream;
 import java.net.URL;
@@ -32,17 +33,18 @@ public class MyNetUrlCLassLoad extends ClassLoader{
             while ((len=in.read(buf))!=-1){
                 baos.write(buf,0,len);
             }
-            baos.flush();
+            //baos.flush();
             data=baos.toByteArray();
             in.close();
             baos.close();
         } catch (Exception e) {
             e.printStackTrace();
         }
-        return defineClass(path,data,0,data.length);
+        return defineClass(pathclass,data,0,data.length);
     }
     public static void main(String[] args) throws ClassNotFoundException {
-         MyNetUrlCLassLoad myCLassLoad0 =new MyNetUrlCLassLoad("http://106.12.209.250:8080/examples");
+        //MyNetUrlCLassLoad myCLassLoad0 =new MyNetUrlCLassLoad("http://106.12.209.250:8080/examples");
+        MyNetUrlCLassLoad myCLassLoad0 =new MyNetUrlCLassLoad("http://localhost:8080/examples");
          Class cla0= myCLassLoad0.loadClass("com.proxy.Execl");
          System.out.println("cla0-------"+cla0.getClassLoader());
         }
