@@ -40,7 +40,7 @@ public class MyNetUrlCLassLoad extends ClassLoader{
         } catch (Exception e) {
             e.printStackTrace();
         }
-        return defineClass(pathclass,data,0,data.length);
+        return defineClass(name,data,0,data.length);
     }
     public static void main(String[] args) throws ClassNotFoundException {
         //MyNetUrlCLassLoad myCLassLoad0 =new MyNetUrlCLassLoad("http://106.12.209.250:8080/examples");
