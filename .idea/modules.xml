@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesignModel/DesignModel.iml" filepath="$PROJECT_DIR$/DesignModel/DesignModel.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic/basic.iml" filepath="$PROJECT_DIR$/basic/basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/fun/fun.iml" filepath="$PROJECT_DIR$/fun/fun.iml" />
       <module fileurl="file://$PROJECT_DIR$/high/high.iml" filepath="$PROJECT_DIR$/high/high.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interview/interview.iml" filepath="$PROJECT_DIR$/interview/interview.iml" />
       <module fileurl="file://$PROJECT_DIR$/keep_studying.iml" filepath="$PROJECT_DIR$/keep_studying.iml" />
+      <module fileurl="file://$PROJECT_DIR$/others/others.iml" filepath="$PROJECT_DIR$/others/others.iml" />
     </modules>
   </component>
 </project>
