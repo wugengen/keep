@@ -5,14 +5,7 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a845a2fe-e5c6-4ff1-a37a-79a68dd8799a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thread/src/com/Thread200406_0.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thread/src/com/Thread200406_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/high/high.iml" beforeDir="false" afterPath="$PROJECT_DIR$/high/high.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/keep_studying.iml" beforeDir="false" afterPath="$PROJECT_DIR$/keep_studying.iml" afterDir="false" />
-    </list>
+    <list default="true" id="a845a2fe-e5c6-4ff1-a37a-79a68dd8799a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/basic/target/" />
@@ -91,7 +84,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/high/src/main/java/com/jdkproxy1/practice/Demo000.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
+            <state relative-caret-position="-21">
               <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
@@ -297,27 +290,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="keep_studying" type="b2602c69:ProjectViewProjectNode" />
-              <item name="keep_studying" type="462c0819:PsiDirectoryNode" />
-              <item name="high" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jdkproxy1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="keep_studying" type="b2602c69:ProjectViewProjectNode" />
-              <item name="keep_studying" type="462c0819:PsiDirectoryNode" />
-              <item name="high" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jdkproxy1" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -543,7 +515,7 @@
       <workItem from="1595745408602" duration="12706000" />
       <workItem from="1595780109053" duration="2434000" />
       <workItem from="1595829725009" duration="18418000" />
-      <workItem from="1595906436857" duration="2110000" />
+      <workItem from="1595906436857" duration="2560000" />
     </task>
     <task id="LOCAL-00001" summary="20200411，first commit to local repostory">
       <created>1586614029497</created>
@@ -594,7 +566,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587283907163</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="20200411，first commit to local repostory">
+      <created>1595908621829</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1595908621829</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -630,12 +609,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="324694000" />
+    <option name="totallyTimeSpent" value="325144000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="33" width="1295" height="695" extended-state="6" />
+    <frame x="349" y="54" width="528" height="524" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973262" visible="true" weight="0.19320938" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973262" visible="true" weight="0.50851065" />
       <window_info id="Structure" order="1" sideWeight="0.5026738" side_tool="true" weight="0.19401778" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -645,7 +624,7 @@
       <window_info id="Web" order="7" sideWeight="0.5026738" side_tool="true" weight="0.19401778" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.17504655" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.10428306" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30054644" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.46368715" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1226,7 +1205,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/high/src/main/java/com/jdkproxy1/practice/Demo000.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
+        <state relative-caret-position="-21">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
